@@ -34,5 +34,5 @@ Please Enter Second Number: 5
 
 ## Author
 
-Created by Cristina-zadly.
+Created by Christina-zadly.
 
